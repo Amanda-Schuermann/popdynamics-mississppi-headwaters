@@ -6,6 +6,8 @@ the code used to create the figures in the final manuscript.
 
 The data was collected by Amanda S. in the summer of 2024. Field site selection and methodologies can be found in the publication.
 
+
+
 Data sheets explanation: Due to the collaborative nature of this project, and the fact that several analyses were done at different times, there are several data sheets associated with this project.
 
 Data_key_taxa_NMDS.csv: This data sheet contains the counts of the key taxa explained in the publication in a format that made the NMDS analysis easier.
@@ -15,6 +17,8 @@ diversity_corr_updated_1.csv: This data sheet contains the extrapolated values f
 diversity_PERMANOVA.upt.csv: This data sheet contains the counts of the key taxa explained in the publication in a format that made the PERMANOVA analysis easier.
 
 data_AFDM_csv.csv: Data from ash free dry mass conducted after field season.
+
+
 
 Column name explanation
 These data sheets all contain similar column names:
@@ -36,6 +40,7 @@ Macro per zeb: number of macroinvertebrates/number of zebra mussels
 SA druse  mm: Surface area of druse in mm based on 2D approximation using foil method.
 
 zeb_presence: 1/0 denoting Y/N for zebra mussel presence.
+
 
 
 All questions about the code should be directed to the corresponding author, Amanda S, schue621@umn.edu
