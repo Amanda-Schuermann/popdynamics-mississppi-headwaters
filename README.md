@@ -31,10 +31,12 @@ Average length mm: average length of zebra mussel in sample.
 
 Maco count: total number of macroinvertebrates in the sample.
 
-All questions about the code should be directed to the corresponding author, Amanda S, schue621@umn.edu
-
 Macro per zeb: number of macroinvertebrates/number of zebra mussels
 
 SA druse  mm: Surface area of druse in mm based on 2D approximation using foil method.
 
 zeb_presence: 1/0 denoting Y/N for zebra mussel presence.
+
+
+All questions about the code should be directed to the corresponding author, Amanda S, schue621@umn.edu
+
